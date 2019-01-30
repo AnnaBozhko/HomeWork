@@ -1,0 +1,34 @@
+﻿body
+{
+background-color: lightblue}
+<style>
+
+<h1 {color: blue; text-align: center; font-family: verdana;  font-size: 120%; }
+  p {color: black;font-family: courier; font-size: 145%; }
+
+<h2>
+	<p>{
+	font-style:italic;
+	text-align: center;
+	font-family:Arial;
+	font-size:large;
+	}
+	#q2{
+		color:red;
+		tront-size:4em;
+	}
+	[type="button"] {
+   background-color: green;
+   a{
+   	   display:block;
+	   weight:150px;
+	   height:20px;
+	   border-radius:10px;
+	   margin:10px;
+	   background-color:darkblue;
+	   text-align:center;
+
+   }
+}
+	</style>
+}
